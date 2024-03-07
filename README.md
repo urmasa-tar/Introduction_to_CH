@@ -23,3 +23,33 @@
 </ul>
 <p>Example in console</p>
 <img src = "./img/mono_run.png">
+
+<h6>Run with dotnet</h6>
+<p>List of commands</p>
+<ul>
+    <li><code>dotnet new console -o name</code></li>
+    <li><code>dotnet build</code></li>
+    <li><code>dotnet run</code></li>
+</ul>
+
+<img src = "./img/mono_run.png">
+
+<h6>Full debug and compile in VS code</h6>
+
+<p>First of all, you need a dotnet lib on your laptop</p>
+<p>The same command of projct criation</p>
+
+<p>After that step we gonna use C# modules for vscode, donet into vscode, vscode </p>
+
+<h3>2) GUI for applications</h3>
+
+<p>There are list of popular cross-platfor GUI for C# on linux/unix</p>
+
+<ul>
+    <li><code>dotnet new console -o name</code></li>
+    <li><code>dotnet build</code></li>
+    <li><code>dotnet run</code></li>
+</ul>
+
+
+<h3>Time to code)</h3>
