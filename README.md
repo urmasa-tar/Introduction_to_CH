@@ -17,4 +17,9 @@
 <h6>Run with mono</h6>
 <p>List of commands</p>
 <ul>
+    <li><code>mono --help</code></li>
+    <li><code>mcs -out:name.exe hello_world.cs </code></li>
+    <li><code>mono name.exe</code></li>
 </ul>
+<p>Example in console</p>
+<img src = "./img/mono_run.png">
