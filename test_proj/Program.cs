@@ -7,7 +7,7 @@ namespace YourNamespace // What is name space?
     {
     }
 
-    struct YourStruct// 
+    struct YourStruct// j
     {
     }
 
