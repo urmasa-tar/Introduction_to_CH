@@ -32,8 +32,6 @@
     <li><code>dotnet run</code></li>
 </ul>
 
-<img src = "./img/mono_run.png">
-
 <h6>Full debug and compile in VS code</h6>
 
 <p>First of all, you need a dotnet lib on your laptop</p>
@@ -46,9 +44,9 @@
 <p>There are list of popular cross-platfor GUI for C# on linux/unix</p>
 
 <ul>
-    <li><code>dotnet new console -o name</code></li>
-    <li><code>dotnet build</code></li>
-    <li><code>dotnet run</code></li>
+    <li><code><a href="https://github.com/AvaloniaUI/Avalonia">Avalonia</a></code></li>
+    <li><code><a href="https://platform.uno/">Uno</a></code></li>
+    <li><code><a href="https://learn.microsoft.com/ru-ru/dotnet/maui/what-is-maui?view=net-maui-8.0">MAUI</a></code></li>
 </ul>
 
 
