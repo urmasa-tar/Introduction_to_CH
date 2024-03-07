@@ -49,5 +49,15 @@
     <li><code><a href="https://learn.microsoft.com/ru-ru/dotnet/maui/what-is-maui?view=net-maui-8.0">MAUI</a></code></li>
 </ul>
 
+<h6>Avalonia in VScode</h6>
+
+
+
 
 <h3>Time to code)</h3>
+
+<h4>1. Some simple console aplication + algoritms</h4>
+
+<h4>2. Aplication of calculater</h4>
+
+<h4>3. Step 3 in progress :)</h4>
