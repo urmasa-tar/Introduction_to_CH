@@ -1,0 +1,15 @@
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/bin/Debug/net8.0/Simulation
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/bin/Debug/net8.0/Simulation.deps.json
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/bin/Debug/net8.0/Simulation.runtimeconfig.json
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/bin/Debug/net8.0/Simulation.dll
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/bin/Debug/net8.0/Simulation.pdb
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.AssemblyInfoInputs.cache
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.AssemblyInfo.cs
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.csproj.CoreCompileInputs.cache
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.sourcelink.json
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.dll
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/refint/Simulation.dll
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.pdb
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/Simulation.genruntimeconfig.cache
+/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/obj/Debug/net8.0/ref/Simulation.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UaLg+4wvEOs2c7Uuj76IjD63GR7qTzittvndB/Le23HCtEdMNv9JDlchH+6QzupyJOYsKPaLCxBLkne9ud50gQ==",
+  "success": true,
+  "projectFilePath": "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/from_LeetCode/Simulation/Simulation.csproj",
+  "expectedPackageFiles": [
+    "/home/urmasa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
