@@ -17,6 +17,8 @@ class MyClass
         else
         {
             // Common testes
+            String[] oper = ["5", "2", "D", "C", "+"];
+            Console.WriteLine(testObj.CalPoints(oper));
         }
     }
 }

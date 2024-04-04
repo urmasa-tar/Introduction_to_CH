@@ -13,10 +13,11 @@ class BaseBall
         int prev = 0;
         for (int i = 0; i < ln; i++)
         {
+            int swap;
             switch (operations[i])
             {
                 case "C":
-                    int swap = sum;
+                    swap = sum;
                     sum = prev;
                     prev = sum;
                     break;
@@ -26,11 +27,17 @@ class BaseBall
                     sum *= 2;
                     break;
                 
+                case "+":
+                    swap = sum;
+                    sum = sum + prev;
+                    prev = swap;
+                    break;
+                
                 default:
                     int local = Str_To_Int(operations[i]);
                     sum += local;
                     break;
-            } 
+            }
         } 
         
         return sum;
