@@ -30,6 +30,11 @@
     <li><code>dotnet new console -o name</code></li>
     <li><code>dotnet build</code></li>
     <li><code>dotnet run</code></li>
+    <li>Also there are way to add new files in project</li>
+    <li> first - <code>new-item YourCSharpFileName.cs</code></li>
+    <li> second - <code>dotnet new class -t nameOfClass_without_extension_.cs </code></li>
+    <li> as that but more options - <code>dotnet new class -t filename -o foldername</code></li>
+    <li> To see more options - <code>dotnet new class -h</code></li>
 </ul>
 
 <h6>Full debug and compile in VS code</h6>
