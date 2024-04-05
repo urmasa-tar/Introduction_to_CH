@@ -10,38 +10,32 @@ class BaseBall
     public int CalPoints(string[] operations)
     {
         int ln = operations.Length;
-        int sum = 0;
-        int prev = 0;
+        int[] sum = [0, 0 ,0];
         for (int i = 0; i < ln; i++)
         {
             int swap;
             switch (operations[i])
             {
                 case "C":
-                    swap = sum;
-                    sum = prev;
-                    prev = sum;
+                    
                     break;
                 
                 case "D":
-                    prev = sum;
-                    sum *= 2;
+                    
                     break;
                 
                 case "+":
-                    swap = sum;
-                    sum = sum + prev;
-                    prev = swap;
+                    
                     break;
                 
                 default:
                     int local = Str_To_Int(operations[i]);
-                    sum += local;
+                    
                     break;
             }
-        } 
+        }
         
-        return sum;
+        return sum[0];
     }
 
     public static int Str_To_Int(String numS)
