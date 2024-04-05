@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/urmasa/Documents/MADI/Algorithms/Introduction_to_CH/test_proj/test_proj.csproj": {}
+    "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/test_proj/test_proj.csproj": {}
   },
   "projects": {
-    "/home/urmasa/Documents/MADI/Algorithms/Introduction_to_CH/test_proj/test_proj.csproj": {
+    "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/test_proj/test_proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/urmasa/Documents/MADI/Algorithms/Introduction_to_CH/test_proj/test_proj.csproj",
+        "projectUniqueName": "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/test_proj/test_proj.csproj",
         "projectName": "test_proj",
-        "projectPath": "/home/urmasa/Documents/MADI/Algorithms/Introduction_to_CH/test_proj/test_proj.csproj",
+        "projectPath": "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/test_proj/test_proj.csproj",
         "packagesPath": "/home/urmasa/.nuget/packages/",
-        "outputPath": "/home/urmasa/Documents/MADI/Algorithms/Introduction_to_CH/test_proj/obj/",
+        "outputPath": "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/test_proj/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/urmasa/.nuget/NuGet/NuGet.Config"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.3, 8.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/236/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WseWcyD2OKPpt2y78UYxqdGACGV7t6mxFHi736pu9E1WW0WOI35/6jmdwLRMikGX2aeGRcpbWjVXtspGOocK2g==",
+  "dgSpecHash": "XDiFlv/UQfHQyT2K8pdqp3GGg0vlhicGKHeudhPrOaJuK/f79P85fA0QYK2cUXdAtSUueKbw0IrIArcOmdrNuA==",
   "success": true,
-  "projectFilePath": "/home/urmasa/Documents/MADI/Algorithms/Introduction_to_CH/test_proj/test_proj.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/urmasa/Documents/self-destruction/Common_prog_Skills/Introduction_to_CH/test_proj/test_proj.csproj",
+  "expectedPackageFiles": [
+    "/home/urmasa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
