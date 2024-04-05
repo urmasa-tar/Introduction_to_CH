@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 using static Simulation.BaseBall;
-
+using static Simulation.Robot_Return;
 namespace Simulation;
 
 class MyClass
