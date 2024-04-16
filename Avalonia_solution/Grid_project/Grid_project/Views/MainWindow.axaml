@@ -10,30 +10,32 @@
         Title="Grid_project"
         Width="400"
         Height="400"
+        
         >
 
-    <StackPanel
+    <StackPanel>
+        <!-- Title bar -->
+        <Grid ColumnDefinitions="Auto, Auto, *, Auto, Auto"
+              Background = "DimGray"
+              Height = "40"
+              >
+            <Rectangle Grid.Column="0" Fill="Red" Width="30"></Rectangle>
+            <Rectangle Grid.Column="1" Width="30" Fill="Brown"></Rectangle>
+            <Rectangle Grid.Column="2" Width="280" Fill="Orchid"></Rectangle>
+            <Rectangle Grid.Column="3" Width="30" Fill="Aquamarine"></Rectangle>
+            <Rectangle Grid.Column="4" Width="30" Fill="Fuchsia"></Rectangle>
+            
+        </Grid>
         
-        >
-        <!--- Title bar --->
+        <!-- Main area -->
         <Grid>
             
         </Grid>
         
-        <Grid>
-            
-        </Grid>
-        
-        <Grid>
-            
-        </Grid>
-        
-        <Grid>
-            
-        </Grid>
-        
+        <!-- Button area -->
         <Grid>
             
         </Grid>
     </StackPanel>
+    
 </Window>
