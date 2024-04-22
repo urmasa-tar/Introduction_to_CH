@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("test_proj")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Maters_basics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e978a3cce7d81093700cb1ad6c2a1be164cb729")]
-[assembly: System.Reflection.AssemblyProductAttribute("test_proj")]
-[assembly: System.Reflection.AssemblyTitleAttribute("test_proj")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Maters_basics")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Maters_basics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
