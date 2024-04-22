@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maters_basics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499e42d5feeb556fb8f2d2d2a333b4f923c613e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maters_basics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maters_basics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
