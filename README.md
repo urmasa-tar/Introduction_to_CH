@@ -68,7 +68,7 @@
 <h4>3. Step 3 in progress :)</h4>
 
 <h3>3) Teory update in proces</h3>
-<h3><a href ="geeksforgeeks.org/c-sharp-developer-roadmap/">RoadMap</a></h3>
+<h3><a href ="https://www.geeksforgeeks.org/c-sharp-developer-roadmap/">RoadMap</a></h3>
 <ul>
     <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives">Preprocessing</a></li>
     <li></li>
