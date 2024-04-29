@@ -57,8 +57,9 @@ namespace message
             message = inputValues[0];
             score = int.Parse(inputValues[1]);
             bonus = int.Parse(inputValues[2]);
+            score =score * bonus;
 
-            string result = "";
+            string result = message + " " + score.ToString();
 
             Console.WriteLine(result);
         }
