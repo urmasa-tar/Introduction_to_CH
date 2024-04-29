@@ -1,8 +1,12 @@
-﻿using message;
+﻿#define sum
+
+using message;
 using System;
 using static message.str_message;
 using static message.str_int_concat;
 using static message.concat_multiple;
+
+
 
 class Program
 {

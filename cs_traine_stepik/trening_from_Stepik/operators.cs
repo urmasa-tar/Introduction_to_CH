@@ -11,12 +11,23 @@ namespace operators_classes
         public void oper_func()
         {
             int x, y;
-
+            string res = "";
+            int result = 0;
             int[] inputValues = ReadInput();
+
+#if sum
             x = inputValues[0];
             y = inputValues[1];
-
-            int result = 0;
+#else
+            if (inputValues[0] % 2 == 0)
+            {
+                res = "нечет";
+            }
+            else
+            {
+                res = "чет";
+            }
+#endif
 
             Console.WriteLine(result);
         }
