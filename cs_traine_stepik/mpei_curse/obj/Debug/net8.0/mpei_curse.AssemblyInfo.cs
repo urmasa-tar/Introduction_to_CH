@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mpei_curse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08a7992e32b1716ee0bb5db24ab6cc6d1807ed7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34dd4190b89bcfa1ff977e5b4f379903c22e5520")]
 [assembly: System.Reflection.AssemblyProductAttribute("mpei_curse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mpei_curse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
