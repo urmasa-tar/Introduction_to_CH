@@ -129,4 +129,101 @@ namespace mpei_curse
             return res;
         }
     }
+
+    class By_Types
+    {
+        public By_Types() { }
+
+        public void out_Res_inp()
+        {
+            // int double char str
+            int out_i = int.Parse(inp_Line()[0]);
+            Console.WriteLine("Целое число = " + out_i);
+
+            double out_d = double.Parse(inp_Line()[0]);
+            Console.WriteLine("Число с плавающей точкой = " + out_d);
+
+            Console.WriteLine("Символ = " + (inp_Line()[0]));
+
+            // Str in cycle
+            string[] out_st = inp_Line();
+
+            Console.Write("Строка = ");
+            for (int i = 0; i < out_st.Length; i++)
+            {
+                Console.Write(out_st[i] + " ");
+                if(i == out_st.Length - 1)Console.Write("\n");
+            }
+
+        }
+
+        public void out_Res_op()
+        {
+            double n = double.Parse(inp_Line()[0]);
+            double m = double.Parse(inp_Line()[0]);
+            // all operations
+            Console.WriteLine("Сумма двух чисел = " + (n + m));
+            Console.WriteLine("Разность двух чисел = " + (n - m));
+            Console.WriteLine("Целочисленное деление = " + (n / m));
+            Console.WriteLine("Остаток = " + (n % m));
+        }
+
+        public void calculator()
+        {
+            double n = double.Parse(inp_Line()[0]);
+            double m = double.Parse(inp_Line()[0]);
+            char sumb = char.Parse(inp_Line()[0]);
+
+            switch (sumb)
+            {
+                case '+':
+                    Console.WriteLine("Результат сложения = " + (n + m));
+                    break;
+
+                case '-':
+                    Console.WriteLine("Результат вычитания = " + (n - m));
+                    break;
+
+                case '*':
+                    Console.WriteLine("Результат умножения =  " + (n * m));
+                    break;
+
+                case '/':
+                    Console.WriteLine("Результат деления =  " + (n / m));
+                    break;
+            }
+        }
+
+        public string[] inp_Line()
+        {
+            string[] res = Console.ReadLine().Split(' ');
+
+            return res;
+        }
+    }
+
+    class collections_class
+    {
+        public collections_class() { }
+
+        public void List_out()
+        {
+
+        }
+
+        public List<int> inp_List()
+        {
+            List<int> arr = new List<int>();
+
+            return arr;
+        }
+
+        public Dictionary<int, string> inp_Dict() 
+        {   
+            Dictionary<int, string> dict = new Dictionary<int, string>();
+
+            return dict;
+        }
+
+    }
 }
