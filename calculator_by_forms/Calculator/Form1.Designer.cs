@@ -59,9 +59,10 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(28, 49);
+            textBox1.Location = new Point(28, 40);
+            textBox1.Multiline = true;
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(401, 27);
+            textBox1.Size = new Size(401, 52);
             textBox1.TabIndex = 0;
             // 
             // button1
@@ -330,6 +331,7 @@
             Controls.Add(button1);
             Controls.Add(textBox1);
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Calculator";
             Load += Form1_Load;
             ResumeLayout(false);
