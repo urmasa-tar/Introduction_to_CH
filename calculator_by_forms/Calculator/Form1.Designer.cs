@@ -53,20 +53,16 @@ namespace Calculator
             button_tg = new Button();
             button_ctg = new Button();
             button_clean_last_chr = new Button();
-            button23 = new Button();
-            button24 = new Button();
-            button25 = new Button();
-            button26 = new Button();
             SuspendLayout();
             // 
             // textBox
             // 
             textBox.Font = new Font("Arial Rounded MT Bold", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            textBox.Location = new Point(28, 40);
+            textBox.Location = new Point(12, 38);
             textBox.Multiline = true;
             textBox.Name = "textBox";
             textBox.ReadOnly = true;
-            textBox.Size = new Size(401, 52);
+            textBox.Size = new Size(331, 52);
             textBox.TabIndex = 0;
             // 
             // button1
@@ -161,7 +157,7 @@ namespace Calculator
             // 
             // button10
             // 
-            button10.Location = new Point(459, 40);
+            button10.Location = new Point(384, 40);
             button10.Name = "button10";
             button10.Size = new Size(82, 44);
             button10.TabIndex = 10;
@@ -170,7 +166,7 @@ namespace Calculator
             // 
             // button_to_rad
             // 
-            button_to_rad.Location = new Point(562, 40);
+            button_to_rad.Location = new Point(503, 40);
             button_to_rad.Name = "button_to_rad";
             button_to_rad.Size = new Size(52, 29);
             button_to_rad.TabIndex = 11;
@@ -190,7 +186,7 @@ namespace Calculator
             // 
             // button_pls
             // 
-            button_pls.Location = new Point(388, 121);
+            button_pls.Location = new Point(265, 121);
             button_pls.Name = "button_pls";
             button_pls.Size = new Size(78, 40);
             button_pls.TabIndex = 13;
@@ -199,7 +195,7 @@ namespace Calculator
             // 
             // button_mns
             // 
-            button_mns.Location = new Point(388, 175);
+            button_mns.Location = new Point(265, 175);
             button_mns.Name = "button_mns";
             button_mns.Size = new Size(78, 40);
             button_mns.TabIndex = 14;
@@ -208,7 +204,7 @@ namespace Calculator
             // 
             // button_mlt
             // 
-            button_mlt.Location = new Point(388, 239);
+            button_mlt.Location = new Point(265, 236);
             button_mlt.Name = "button_mlt";
             button_mlt.Size = new Size(78, 40);
             button_mlt.TabIndex = 15;
@@ -217,7 +213,7 @@ namespace Calculator
             // 
             // button_div
             // 
-            button_div.Location = new Point(388, 295);
+            button_div.Location = new Point(265, 294);
             button_div.Name = "button_div";
             button_div.Size = new Size(78, 40);
             button_div.TabIndex = 16;
@@ -226,7 +222,7 @@ namespace Calculator
             // 
             // button_full_clean
             // 
-            button_full_clean.Location = new Point(586, 121);
+            button_full_clean.Location = new Point(477, 121);
             button_full_clean.Name = "button_full_clean";
             button_full_clean.Size = new Size(78, 40);
             button_full_clean.TabIndex = 17;
@@ -235,7 +231,7 @@ namespace Calculator
             // 
             // button_sin
             // 
-            button_sin.Location = new Point(488, 121);
+            button_sin.Location = new Point(384, 121);
             button_sin.Name = "button_sin";
             button_sin.Size = new Size(78, 40);
             button_sin.TabIndex = 18;
@@ -244,7 +240,7 @@ namespace Calculator
             // 
             // button_cos
             // 
-            button_cos.Location = new Point(488, 178);
+            button_cos.Location = new Point(384, 178);
             button_cos.Name = "button_cos";
             button_cos.Size = new Size(78, 40);
             button_cos.TabIndex = 19;
@@ -253,7 +249,7 @@ namespace Calculator
             // 
             // button_tg
             // 
-            button_tg.Location = new Point(488, 237);
+            button_tg.Location = new Point(384, 236);
             button_tg.Name = "button_tg";
             button_tg.Size = new Size(78, 40);
             button_tg.TabIndex = 20;
@@ -262,7 +258,7 @@ namespace Calculator
             // 
             // button_ctg
             // 
-            button_ctg.Location = new Point(488, 294);
+            button_ctg.Location = new Point(384, 294);
             button_ctg.Name = "button_ctg";
             button_ctg.Size = new Size(78, 40);
             button_ctg.TabIndex = 21;
@@ -271,54 +267,18 @@ namespace Calculator
             // 
             // button_clean_last_chr
             // 
-            button_clean_last_chr.Location = new Point(565, 79);
+            button_clean_last_chr.Location = new Point(506, 75);
             button_clean_last_chr.Name = "button_clean_last_chr";
             button_clean_last_chr.Size = new Size(49, 29);
             button_clean_last_chr.TabIndex = 22;
             button_clean_last_chr.Text = "<=";
             button_clean_last_chr.UseVisualStyleBackColor = true;
             // 
-            // button23
-            // 
-            button23.Location = new Point(272, 121);
-            button23.Name = "button23";
-            button23.Size = new Size(91, 40);
-            button23.TabIndex = 23;
-            button23.UseVisualStyleBackColor = true;
-            // 
-            // button24
-            // 
-            button24.Location = new Point(272, 175);
-            button24.Name = "button24";
-            button24.Size = new Size(91, 40);
-            button24.TabIndex = 24;
-            button24.UseVisualStyleBackColor = true;
-            // 
-            // button25
-            // 
-            button25.Location = new Point(272, 239);
-            button25.Name = "button25";
-            button25.Size = new Size(91, 40);
-            button25.TabIndex = 25;
-            button25.UseVisualStyleBackColor = true;
-            // 
-            // button26
-            // 
-            button26.Location = new Point(272, 297);
-            button26.Name = "button26";
-            button26.Size = new Size(91, 38);
-            button26.TabIndex = 26;
-            button26.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(678, 356);
-            Controls.Add(button26);
-            Controls.Add(button25);
-            Controls.Add(button24);
-            Controls.Add(button23);
+            ClientSize = new Size(567, 356);
             Controls.Add(button_clean_last_chr);
             Controls.Add(button_ctg);
             Controls.Add(button_tg);
@@ -380,9 +340,5 @@ namespace Calculator
         private Button button_tg;
         private Button button_ctg;
         private Button button_clean_last_chr;
-        private Button button23;
-        private Button button24;
-        private Button button25;
-        private Button button26;
     }
 }
