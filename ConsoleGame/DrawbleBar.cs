@@ -24,8 +24,30 @@ namespace ConsoleGame
 
             Console.BackgroundColor = defColor;
             progBar = "";
+            for (int barPart = stValue; barPart < maxVal; barPart++) { progBar += " "; }
+            Console.Write(progBar);
+            Console.Write("]\n");
+
+        }
+
+        public void drawBar(int stValue, int maxVal, ConsoleColor colorState, int posX, int posY)
+        {
+            ConsoleColor defColor = Console.BackgroundColor;
+            string progBar = "";
+
+            for (int barPart = 0; barPart < stValue; barPart++) { progBar += " "; }
+
+            Console.SetCursorPosition(posY, posX);
+
+            Console.Write("[");
+            Console.BackgroundColor = colorState;
+            Console.Write(progBar);
+
+            Console.BackgroundColor = defColor;
+            progBar = "";
             for(int barPart = stValue; barPart < maxVal; barPart++){ progBar += " "; }
-            Console.Write("]");
+            Console.Write(progBar);
+            Console.Write("]\n");
 
         }
     }
