@@ -30,14 +30,14 @@ namespace ConsoleGame
 
         }
 
-        public void drawBar(int stValue, int maxVal, ConsoleColor colorState, int posX, int posY)
+        public void drawBar(int stValue, int maxVal, ConsoleColor colorState, int posRow)
         {
             ConsoleColor defColor = Console.BackgroundColor;
             string progBar = "";
 
             for (int barPart = 0; barPart < stValue; barPart++) { progBar += " "; }
 
-            Console.SetCursorPosition(posY, posX);
+            Console.SetCursorPosition(0, posRow);
 
             Console.Write("[");
             Console.BackgroundColor = colorState;
