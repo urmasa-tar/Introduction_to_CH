@@ -26,6 +26,7 @@ namespace ConsoleGame
                 for (ushort posX = 0; posX < this.lenX; posX++)
                 {
                     if((posX == 0 )||(posY == 0) || (posX == this.lenX - 1) || (posY == this.lenY - 1)){ cort[posX][posY] = 1; } 
+
                 }
             }
         }

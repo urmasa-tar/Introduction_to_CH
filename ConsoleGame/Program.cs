@@ -3,11 +3,18 @@ namespace ConsoleGame
 {
     public class ConsoleGame
     {
+        private static readonly CortClass cortClass = new CortClass(16, 64);
+        
         public static void Main(string[] args)
         {
-
+            ushort n = 16;
+            ushort m = 64;
             checkForConsole();
 
+            while (true)
+            {
+                // Key reader
+            }
         }
 
         private static void checkForConsole() {
