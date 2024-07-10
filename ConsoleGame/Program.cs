@@ -51,7 +51,7 @@ namespace ConsoleGame
             {
                 for (int j = 0; j < n; j++)
                 {
-                    if(cortClass.)setAndPrint(n, m, ConsoleColor.Cyan);
+                    if (cortClass.getCort()[i][j] == 1)setAndPrint(n, m, ConsoleColor.Cyan);
                 }
             }
         }
