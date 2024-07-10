@@ -8,22 +8,23 @@ namespace ConsoleGame
 {
     internal class CortClass
     {
-        ushort[][] cort;
-        ushort lenX, lenY;
+        int[][] cort;
+        int lenX, lenY;
 
 
         public CortClass(ushort n, ushort m)
         {
             lenX = n; lenY = m;
-            cort = new ushort[m][n];
+            cort = new int[m][];
+            inpInRow(ref cort, m, n);
             cortInp(ref cort);
         }
 
-        private void cortInp(ref ushort[][] cort)
+        private void cortInp(ref int[][] cort)
         {
-            for(ushort posY = 0; posY < this.lenY; posY++)
+            for(int posY = 0; posY < this.lenY; posY++)
             {
-                for (ushort posX = 0; posX < this.lenX; posX++)
+                for (int posX = 0; posX < this.lenX; posX++)
                 {
                     if((posX == 0 )||(posY == 0) || (posX == this.lenX - 1) || (posY == this.lenY - 1)){ cort[posX][posY] = 1; } 
 
@@ -31,6 +32,14 @@ namespace ConsoleGame
             }
         }
 
+        private void inpInRow(ref int[][] arr, int rows, int columns)
+        {
+            for (int i = 0; i < rows; i++){ arr[i] = new int[columns]; }
+        }
 
+        public int[][] getCort()
+        {
+            return this.cort;
+        }
     }
 }

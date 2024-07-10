@@ -7,13 +7,15 @@ namespace ConsoleGame
         
         public static void Main(string[] args)
         {
-            ushort n = 16;
-            ushort m = 64;
-            checkForConsole();
+            // checkForConsole();
 
             while (true)
             {
+                cortPianter(64, 16);
                 // Key reader
+                char exit = keyReader();
+                if(exit == 'e') { break; }
+                
             }
         }
 
@@ -34,6 +36,24 @@ namespace ConsoleGame
             Console.WriteLine("|");
 
             Console.BackgroundColor = defaultColor;
+        }
+
+        private static char keyReader()
+        {
+            char keyChar = 'e';
+            Console.ReadKey();
+            return keyChar;
+        }
+
+        private static void cortPianter(int n, int m)
+        {
+            for(int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if(cortClass.)setAndPrint(n, m, ConsoleColor.Cyan);
+                }
+            }
         }
     }
 }
