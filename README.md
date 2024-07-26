@@ -96,3 +96,10 @@
 <h4>3.3 Exception Handling</h4>
 
 <p><code>try / catch / finnaly / throw</code></p>
+
+<h2>Пет-проект</h2>
+<h3>Задумка от Chad-AI</h3>
+<img src="./img/chadAi01.png">
+<img src="./img/chadAi02.png">
+<img src="./img/chadAi03.png">
+<img src="./img/chadAi04.png">
