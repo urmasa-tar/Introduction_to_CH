@@ -100,6 +100,6 @@
 <h2>Пет-проект</h2>
 <h3>Задумка от Chad-AI</h3>
 <img src="./img/chadAi01.png">
-<img src="./img/chadAi02.png">
-<img src="./img/chadAi03.png">
-<img src="./img/chadAi04.png">
+<img src="./img/chadAI02.png">
+<img src="./img/chadAI03.png">
+<img src="./img/chadAI04.png">
