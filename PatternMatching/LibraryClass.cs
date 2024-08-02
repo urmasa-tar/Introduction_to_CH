@@ -54,15 +54,13 @@ namespace PatternMatching
         {
             List<Book> result = new List<Book>();
 
-            /*
+
+            
             foreach (Book book in this.booksInLib)
             {
-                if (book is Book { Title: searchTerm })
-                {
-                    result.Add(book);
-                }
+                //if()
             }
-            */
+            
 
             return result;
         }

@@ -1,0 +1,15 @@
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\bin\Debug\net8.0\PatternMatching.exe
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\bin\Debug\net8.0\PatternMatching.deps.json
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\bin\Debug\net8.0\PatternMatching.runtimeconfig.json
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\bin\Debug\net8.0\PatternMatching.dll
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\bin\Debug\net8.0\PatternMatching.pdb
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfo.cs
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.sourcelink.json
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.dll
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\refint\PatternMatching.dll
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.pdb
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\PatternMatching.genruntimeconfig.cache
+C:\Users\urmasa\Documents\self-destruction\Introduction_to_CH\PatternMatching\obj\Debug\net8.0\ref\PatternMatching.dll

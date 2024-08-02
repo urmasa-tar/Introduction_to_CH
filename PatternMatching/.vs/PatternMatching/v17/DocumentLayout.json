@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D3C5CE-A1A3-448D-9FC9-F3FCEF896057}|PatternMatching.csproj|c:\\users\\urmasa\\documents\\self-destruction\\introduction_to_ch\\patternmatching\\libraryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D3C5CE-A1A3-448D-9FC9-F3FCEF896057}|PatternMatching.csproj|solutionrelative:libraryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D3C5CE-A1A3-448D-9FC9-F3FCEF896057}|PatternMatching.csproj|c:\\users\\urmasa\\documents\\self-destruction\\introduction_to_ch\\patternmatching\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D3C5CE-A1A3-448D-9FC9-F3FCEF896057}|PatternMatching.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D3C5CE-A1A3-448D-9FC9-F3FCEF896057}|PatternMatching.csproj|C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D3C5CE-A1A3-448D-9FC9-F3FCEF896057}|PatternMatching.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryClass.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\LibraryClass.cs",
+              "RelativeDocumentMoniker": "LibraryClass.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\LibraryClass.cs",
+              "RelativeToolTip": "LibraryClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:55:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:51:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\self-destruction\\Introduction_to_CH\\PatternMatching\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:49:24.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 640,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
