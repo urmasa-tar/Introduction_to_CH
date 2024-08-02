@@ -50,7 +50,27 @@ namespace PatternMatching
             }
         }
 
-        List<Book> SearchBooks(string searchTerm) { return new List<Book>(); }
+        List<Book> SearchBooks(string searchTerm)
+        {
+            List<Book> result = new List<Book>();
 
+            /*
+            foreach (Book book in this.booksInLib)
+            {
+                if (book is Book { Title: searchTerm })
+                {
+                    result.Add(book);
+                }
+            }
+            */
+
+            return result;
+        }
+        /*
+        int GetId(string name, string autor) => (id) switch
+        {
+            (this.booksInLib., )
+        }
+        */
     }
 }
