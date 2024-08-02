@@ -6,6 +6,7 @@
 <h4>Resources</h4>
 <ul>
     <li>Stepik curse ""</li>
+    <li><a href="https://metanit.com/sharp/tutorial/">Metanit materials</a></li>
 </ul>
 
 
@@ -70,9 +71,11 @@
 <h3>3) Teory update in proces</h3>
 <h3><a href ="https://www.geeksforgeeks.org/c-sharp-developer-roadmap/">RoadMap</a></h3>
 <ul>
-    <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives">Preprocessing</a></li>
-    <li><a href="">OOPS-concepts</a></li>
-    <li></li>
+    <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives">OOP, base for c#</a></li>
+    <li><a href="">.Net base</a></li>
+    <li><a href="">IDE base</a></li>
+    <li><a href="">WPF</a></li>
+    <li><a href="">Asp.Net</a></li>
 </ul>
 
 <h4>3.1 Preprocessing</h4>
@@ -83,7 +86,7 @@
 <h4>3.2 OOP</h4>
 <h5>Класс  — в объектно-ориентированном программировании, модель для создания объектов определённого типа, описывающая их структуру (набор полей и их начальное состояние) и определяющая алгоритмы (функции или методы) для работы с этими объектами.</h5>
 <h5>Объект - сущность в адресном пространстве вычислительной системы, появляющаяся при создании экземпляра класса (например, после запуска результатов компиляции и связывания исходного кода на выполнение)</h5>
-<h5>Три основных принципа</h5>
+<h5>Основные принципы</h5>
 <ul>
     <li>абстракция для выделения в моделируемом предмете важного для решения конкретной задачи по предмету, в конечном счёте — контекстное понимание предмета, формализуемое в виде класса</li>
     <li>инкапсуляция для быстрой и безопасной организации собственно иерархической управляемости: чтобы было достаточно простой команды «что делать», без одновременного уточнения как именно делать, так как это уже другой уровень управления</li>
@@ -94,6 +97,8 @@
 
 
 <h4>3.3 Exception Handling</h4>
+<h4>3.5 Pattern matching</h4>
+<h4>3.4 Strings, StringsBuilder and regex</h4>
 
 <p><code>try / catch / finnaly / throw</code></p>
 
@@ -103,3 +108,4 @@
 <img src="./img/chadAI02.png">
 <img src="./img/ChadAI03.png">
 <img src="./img/ChadAI04.png">
+<h3>Данный пет проект будет выполнен как завершающий</h3>
