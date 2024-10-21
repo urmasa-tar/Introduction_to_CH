@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealisationOfGraphAndOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fce3aae142867237f88ae8f04eeaf93ad8f02cfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f8dee5dd59c604c136506b8125e54b6c3baa15")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealisationOfGraphAndOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealisationOfGraphAndOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

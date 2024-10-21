@@ -28,5 +28,10 @@ class Program
         g.AddEdge("E", "F", 17);
         g.AddEdge("E", "G", 58);
         g.AddEdge("F", "G", 84);
+
+        var dijkstra = new Dijkstra(g);
+        var path = dijkstra.FindShortestPath("A", "G");
+        Console.WriteLine(path);
+        Console.ReadLine();
     }
 }
