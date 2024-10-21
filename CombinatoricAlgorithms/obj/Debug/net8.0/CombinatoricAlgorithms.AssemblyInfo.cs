@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombinatoricAlgorithms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10e44105b7ebeba41e8e08341e1f2315e0184caf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c29dc01d1e690fdfa9066687b586e48c8dbe79")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombinatoricAlgorithms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombinatoricAlgorithms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
